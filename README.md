@@ -1,6 +1,6 @@
 # qc-parameterized-circuits
 
-IBM Qiskit Global Summer School 2021 Lab 3
+IBM Qiskit Global Summer School 2021 Lab 4
 
 How to train circuit-based models  
 How to build variational quantum classifiers  
